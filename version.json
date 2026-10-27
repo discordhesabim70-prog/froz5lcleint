@@ -1,7 +1,7 @@
 {
-  "version": "2.6.5",
-  "changelog": "Perfect Ultra-Smooth Elytra & 2-Block Corridor Fix",
-  "timestamp": 1793122966088,
+  "version": "2.6.6",
+  "changelog": "High Polling Rate Mouse Fix & 0-Tick Network Stack",
+  "timestamp": 1793123791084,
   "files": [
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.20.1/1.0.0-SNAPSHOT/feather-fabric-1.20.1-1.0.0-SNAPSHOT.jar",
@@ -22,6 +22,31 @@
       "path": "libraries/java/net/digitalingot/feather-fabric-26.2/1.0.0-SNAPSHOT/feather-fabric-26.2-1.0.0-SNAPSHOT.jar",
       "sha1": "b930f0281f0abcaed7ec40862726b4aacca77e5c",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.2.jar"
+    },
+    {
+      "path": "feather-mods/Ixeris-4.6.10+1.20.1-fabric.temp.jar",
+      "sha1": "45babe59382734771403c3b94ed941a13009a7f8",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/ixeris-1.20.1.jar"
+    },
+    {
+      "path": "mods/Ixeris-4.6.10+1.20.1-fabric.temp.jar",
+      "sha1": "45babe59382734771403c3b94ed941a13009a7f8",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/ixeris-1.20.1.jar"
+    },
+    {
+      "path": "feather-mods/krypton-0.2.3.temp.jar",
+      "sha1": "4d499819effd8afe811e5d93952fcc46765a00df",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/krypton-0.2.3.jar"
+    },
+    {
+      "path": "mods/krypton-0.2.3.temp.jar",
+      "sha1": "4d499819effd8afe811e5d93952fcc46765a00df",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/krypton-0.2.3.jar"
+    },
+    {
+      "path": "feather/feather_proxy.js",
+      "sha1": "19e1dd81a057246e007cac38dfb76cb146ea8e87",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/feather_proxy.js"
     }
   ]
 }
