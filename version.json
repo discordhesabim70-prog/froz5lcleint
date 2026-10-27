@@ -1,0 +1,27 @@
+{
+  "version": "2.6.4",
+  "changelog": "Cobweb Launch & 2-Block Corridor Fix",
+  "timestamp": 1793118389605,
+  "files": [
+    {
+      "path": "libraries/java/net/digitalingot/feather-fabric-1.20.1/1.0.0-SNAPSHOT/feather-fabric-1.20.1-1.0.0-SNAPSHOT.jar",
+      "sha1": "78af2ad3607a4f50c2bb645225bbbeaad93bc1a5",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.20.1.jar"
+    },
+    {
+      "path": "libraries/java/net/digitalingot/feather-fabric-1.18.2/1.0.0-SNAPSHOT/feather-fabric-1.18.2-1.0.0-SNAPSHOT.jar",
+      "sha1": "d50096b93ca280aa2f63198aba36be5564ad26b8",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.18.2.jar"
+    },
+    {
+      "path": "libraries/java/net/digitalingot/feather-fabric-26.1.2/1.0.0-SNAPSHOT/feather-fabric-26.1.2-1.0.0-SNAPSHOT.jar",
+      "sha1": "2689f045361ef718683e5f53204732eee858c96a",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.1.2.jar"
+    },
+    {
+      "path": "libraries/java/net/digitalingot/feather-fabric-26.2/1.0.0-SNAPSHOT/feather-fabric-26.2-1.0.0-SNAPSHOT.jar",
+      "sha1": "d3cd83238cf3c7d8560899d0c21c444020f742c4",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.2.jar"
+    }
+  ]
+}
