@@ -1,26 +1,26 @@
 {
-  "version": "2.6.9",
-  "changelog": "Always-On Firework Macro (Normal Press & Turbo Boost) + Anti-Ghost",
-  "timestamp": 1793188971154,
+  "version": "2.7.0",
+  "changelog": "100% Ghost Firework Elimination (useOnBlock PASS & Zero-Packet-Drop Boost)",
+  "timestamp": 1793190596576,
   "files": [
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.20.1/1.0.0-SNAPSHOT/feather-fabric-1.20.1-1.0.0-SNAPSHOT.jar",
-      "sha1": "4bbeea013e0feacc974f891caa7f3b571d726d3b",
+      "sha1": "657e2bb41ea9a5c1d0fe2b5912185b916bac1c52",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.20.1.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.18.2/1.0.0-SNAPSHOT/feather-fabric-1.18.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "c05420edb56f8be9e6a8cee6522d3e295f101ef2",
+      "sha1": "5ceb63d23e9e6c7577de8ccd29bb4dd3635923f5",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.18.2.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-26.1.2/1.0.0-SNAPSHOT/feather-fabric-26.1.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "e14b4c9e8289f2032a52ff14789db6689a70639e",
+      "sha1": "9e24a7c4ee21dd415dcd9060234eca8e9d7e1663",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.1.2.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-26.2/1.0.0-SNAPSHOT/feather-fabric-26.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "efb0ef8d0eba6d5045e15a58042f67a1adc7ced1",
+      "sha1": "70d12ca737ad5addbc8e6f178ee32231a413762d",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.2.jar"
     },
     {
@@ -92,6 +92,16 @@
       "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-fabric.temp.jar",
       "sha1": "38196ee5bcfb3605f9bb9e52a45916b250216313",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/dynamic-fps-1.20.jar"
+    },
+    {
+      "path": "feather-mods/1.20.1/firework-fixed-1.0.0.temp.jar",
+      "sha1": "985226eb76998f257b8e923317a5d7d778fde6d8",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/firework-fixed-1.0.0.jar"
+    },
+    {
+      "path": "mods/firework-fixed-1.0.0.temp.jar",
+      "sha1": "985226eb76998f257b8e923317a5d7d778fde6d8",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/firework-fixed-1.0.0.jar"
     },
     {
       "path": "feather/feather_proxy.js",
