@@ -1,26 +1,26 @@
 {
-  "version": "2.7.1",
-  "changelog": "Safe Multi-Tick Double Firework Macro & Anti-Ghost Protection",
-  "timestamp": 1793192726008,
+  "version": "2.7.2",
+  "changelog": "Java 17 Bytecode Compatibility & Double Firework Macro",
+  "timestamp": 1793193310647,
   "files": [
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.20.1/1.0.0-SNAPSHOT/feather-fabric-1.20.1-1.0.0-SNAPSHOT.jar",
-      "sha1": "07e1b6474025627fad8c9bd39e39bed404323256",
+      "sha1": "6e7f05e67dd94005aad30b965d46c8ef9757470e",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.20.1.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.18.2/1.0.0-SNAPSHOT/feather-fabric-1.18.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "3a18a4e2ae08795402366b6179554282a49f9e2e",
+      "sha1": "9413757ac059562c0250e15e4b2e446ab9807da8",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.18.2.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-26.1.2/1.0.0-SNAPSHOT/feather-fabric-26.1.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "a1b3bc8088a143cb4012bdb0e6cf91097b4e4fb4",
+      "sha1": "d8725f0b52fc8c2864ae566c3981243c26132ca9",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.1.2.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-26.2/1.0.0-SNAPSHOT/feather-fabric-26.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "a2121abd289f71cfbe82a30c3c471617f27668ee",
+      "sha1": "e2c7e2f0e8267965e76a515d7f0edae9ff7d05bd",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.2.jar"
     },
     {
