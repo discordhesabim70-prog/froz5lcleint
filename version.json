@@ -1,26 +1,26 @@
 {
-  "version": "2.6.7",
-  "changelog": "Multi-Version Engine & God-Tier FPS Suite",
-  "timestamp": 1793186496163,
+  "version": "2.6.8",
+  "changelog": "Ghost Firework Elimination & Smooth Elytra Takeoff",
+  "timestamp": 1793188340931,
   "files": [
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.20.1/1.0.0-SNAPSHOT/feather-fabric-1.20.1-1.0.0-SNAPSHOT.jar",
-      "sha1": "93144e514a7fb0f2791b8b934e604307d23a7b9f",
+      "sha1": "8a0a9c0648f01b5aebf75668cef74bc373c97bad",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.20.1.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.18.2/1.0.0-SNAPSHOT/feather-fabric-1.18.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "c8f171f9dbae373525b83083a862d4981808fcfb",
+      "sha1": "9aa9e685c552ef3749c65aaecc2380ea4cd07897",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.18.2.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-26.1.2/1.0.0-SNAPSHOT/feather-fabric-26.1.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "65a6f947c56bd2e751da6affc5f4ec667f556442",
+      "sha1": "536518bdafbca7d540dc41c7a982aa373cd6daaa",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.1.2.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-26.2/1.0.0-SNAPSHOT/feather-fabric-26.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "b930f0281f0abcaed7ec40862726b4aacca77e5c",
+      "sha1": "0827c6e64800ef5f360e58ffae147992d7383a49",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.2.jar"
     },
     {
