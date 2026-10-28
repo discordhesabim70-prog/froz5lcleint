@@ -1,26 +1,26 @@
 {
-  "version": "2.7.0",
-  "changelog": "100% Ghost Firework Elimination (useOnBlock PASS & Zero-Packet-Drop Boost)",
-  "timestamp": 1793190596576,
+  "version": "2.7.1",
+  "changelog": "Safe Multi-Tick Double Firework Macro & Anti-Ghost Protection",
+  "timestamp": 1793192726008,
   "files": [
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.20.1/1.0.0-SNAPSHOT/feather-fabric-1.20.1-1.0.0-SNAPSHOT.jar",
-      "sha1": "657e2bb41ea9a5c1d0fe2b5912185b916bac1c52",
+      "sha1": "07e1b6474025627fad8c9bd39e39bed404323256",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.20.1.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.18.2/1.0.0-SNAPSHOT/feather-fabric-1.18.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "5ceb63d23e9e6c7577de8ccd29bb4dd3635923f5",
+      "sha1": "3a18a4e2ae08795402366b6179554282a49f9e2e",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.18.2.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-26.1.2/1.0.0-SNAPSHOT/feather-fabric-26.1.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "9e24a7c4ee21dd415dcd9060234eca8e9d7e1663",
+      "sha1": "a1b3bc8088a143cb4012bdb0e6cf91097b4e4fb4",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.1.2.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-26.2/1.0.0-SNAPSHOT/feather-fabric-26.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "70d12ca737ad5addbc8e6f178ee32231a413762d",
+      "sha1": "a2121abd289f71cfbe82a30c3c471617f27668ee",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.2.jar"
     },
     {
