@@ -1,7 +1,7 @@
 {
-  "version": "2.6.6",
-  "changelog": "High Polling Rate Mouse Fix & 0-Tick Network Stack",
-  "timestamp": 1793123791084,
+  "version": "2.6.7",
+  "changelog": "Multi-Version Engine & God-Tier FPS Suite",
+  "timestamp": 1793186496163,
   "files": [
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.20.1/1.0.0-SNAPSHOT/feather-fabric-1.20.1-1.0.0-SNAPSHOT.jar",
@@ -24,7 +24,7 @@
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.2.jar"
     },
     {
-      "path": "feather-mods/Ixeris-4.6.10+1.20.1-fabric.temp.jar",
+      "path": "feather-mods/1.20.1/Ixeris-4.6.10+1.20.1-fabric.temp.jar",
       "sha1": "45babe59382734771403c3b94ed941a13009a7f8",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/ixeris-1.20.1.jar"
     },
@@ -34,7 +34,7 @@
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/ixeris-1.20.1.jar"
     },
     {
-      "path": "feather-mods/krypton-0.2.3.temp.jar",
+      "path": "feather-mods/1.20.1/krypton-0.2.3.temp.jar",
       "sha1": "4d499819effd8afe811e5d93952fcc46765a00df",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/krypton-0.2.3.jar"
     },
@@ -44,8 +44,58 @@
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/krypton-0.2.3.jar"
     },
     {
+      "path": "feather-mods/1.20.1/ImmediatelyFast-Fabric-1.5.5+1.20.4.temp.jar",
+      "sha1": "9f0110b60dc752ca093f2fc10a72d221b6dc8ac3",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/immediatelyfast-1.20.4.jar"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.5.5+1.20.4.temp.jar",
+      "sha1": "9f0110b60dc752ca093f2fc10a72d221b6dc8ac3",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/immediatelyfast-1.20.4.jar"
+    },
+    {
+      "path": "feather-mods/1.20.1/lithium-fabric-mc1.20.1-0.11.4.temp.jar",
+      "sha1": "048227ed60a3005cf9fa55880dfe0cf20b0ba680",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/lithium-1.20.1.jar"
+    },
+    {
+      "path": "mods/lithium-fabric-mc1.20.1-0.11.4.temp.jar",
+      "sha1": "048227ed60a3005cf9fa55880dfe0cf20b0ba680",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/lithium-1.20.1.jar"
+    },
+    {
+      "path": "feather-mods/1.20.1/enhancedblockentities-0.9+1.20.temp.jar",
+      "sha1": "61cfe50f69f8ef9e3640c0269ef158870f5b0410",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/ebe-1.20.jar"
+    },
+    {
+      "path": "mods/enhancedblockentities-0.9+1.20.temp.jar",
+      "sha1": "61cfe50f69f8ef9e3640c0269ef158870f5b0410",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/ebe-1.20.jar"
+    },
+    {
+      "path": "feather-mods/1.20.1/reeses_sodium_options-1.7.2+mc1.20.1-build.101.temp.jar",
+      "sha1": "206f1b01b99ac3df99ddd84ed96b466a8700412d",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/reeses-sodium-options-1.20.1.jar"
+    },
+    {
+      "path": "mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.temp.jar",
+      "sha1": "206f1b01b99ac3df99ddd84ed96b466a8700412d",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/reeses-sodium-options-1.20.1.jar"
+    },
+    {
+      "path": "feather-mods/1.20.1/dynamic-fps-3.11.4+minecraft-1.20.0-fabric.temp.jar",
+      "sha1": "38196ee5bcfb3605f9bb9e52a45916b250216313",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/dynamic-fps-1.20.jar"
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-fabric.temp.jar",
+      "sha1": "38196ee5bcfb3605f9bb9e52a45916b250216313",
+      "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/dynamic-fps-1.20.jar"
+    },
+    {
       "path": "feather/feather_proxy.js",
-      "sha1": "19e1dd81a057246e007cac38dfb76cb146ea8e87",
+      "sha1": "bd3f581dd0259da2111e509925a5da390c20e86b",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/feather_proxy.js"
     }
   ]
