@@ -532,9 +532,30 @@ const server = http.createServer((req, res) => {
           }
           body = Buffer.from(JSON.stringify(idxObj), 'utf8');
         } catch (e) {}
+function syncModsForVersion(targetVer) {
+  try {
+    const versionModsDir = path.join(FEATHER_MODS_DIR, targetVer);
+    if (!fs.existsSync(versionModsDir)) return;
+    console.log(`[Feather Multi-Version Engine] Sürüm algılandı: ${targetVer}`);
+    const vFiles = fs.readdirSync(versionModsDir);
+    for (const vf of vFiles) {
+      if (vf.endsWith('.jar') || vf.endsWith('.temp.jar')) {
+        const src = path.join(versionModsDir, vf);
+        const dest = path.join(ACTIVE_MODS_DIR, vf);
+        try {
+          fs.copyFileSync(src, dest);
+          console.log(`[Feather Multi-Version Engine] ${vf} -> aktif edildi.`);
+        } catch (e) {}
+      }
+    }
+  } catch (e) {}
+}
+
       } else if (glPath.includes('/versions/') && glPath.endsWith('.json')) {
         try {
           const verFileName = path.basename(glPath);
+          const targetVer = verFileName.replace(/-fabric\.json$/, '').replace(/-forge\.json$/, '').replace(/\.json$/, '');
+          syncModsForVersion(targetVer);
           const localVerJson = path.join(FEATHER_VERSIONS_DIR, verFileName);
           let jsonText = fs.existsSync(localVerJson)
             ? fs.readFileSync(localVerJson, 'utf8')
