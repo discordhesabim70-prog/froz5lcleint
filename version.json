@@ -1,26 +1,26 @@
 {
-  "version": "2.6.8",
-  "changelog": "Ghost Firework Elimination & Smooth Elytra Takeoff",
-  "timestamp": 1793188340931,
+  "version": "2.6.9",
+  "changelog": "Always-On Firework Macro (Normal Press & Turbo Boost) + Anti-Ghost",
+  "timestamp": 1793188971154,
   "files": [
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.20.1/1.0.0-SNAPSHOT/feather-fabric-1.20.1-1.0.0-SNAPSHOT.jar",
-      "sha1": "8a0a9c0648f01b5aebf75668cef74bc373c97bad",
+      "sha1": "4bbeea013e0feacc974f891caa7f3b571d726d3b",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.20.1.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-1.18.2/1.0.0-SNAPSHOT/feather-fabric-1.18.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "9aa9e685c552ef3749c65aaecc2380ea4cd07897",
+      "sha1": "c05420edb56f8be9e6a8cee6522d3e295f101ef2",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/1.18.2.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-26.1.2/1.0.0-SNAPSHOT/feather-fabric-26.1.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "536518bdafbca7d540dc41c7a982aa373cd6daaa",
+      "sha1": "e14b4c9e8289f2032a52ff14789db6689a70639e",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.1.2.jar"
     },
     {
       "path": "libraries/java/net/digitalingot/feather-fabric-26.2/1.0.0-SNAPSHOT/feather-fabric-26.2-1.0.0-SNAPSHOT.jar",
-      "sha1": "0827c6e64800ef5f360e58ffae147992d7383a49",
+      "sha1": "efb0ef8d0eba6d5045e15a58042f67a1adc7ced1",
       "url": "https://raw.githubusercontent.com/discordhesabim70-prog/froz5lcleint/main/files/26.2.jar"
     },
     {
